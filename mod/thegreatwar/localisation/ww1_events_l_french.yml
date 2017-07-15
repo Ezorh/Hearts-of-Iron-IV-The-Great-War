@@ -1112,10 +1112,10 @@
  ww1_england.101.a:0 "Great, another puppet for the British Empire."
  ww1_england.101.b:0 "The Union is formed!"
 
- ww1_england.102.t:0 "Sinking of the Titanic"
- ww1_england.102.d:0 "The RMS Titanic, thought to be unsinkable, has met its end in one of the largest maritime disasters in history, with over 1500 dead. Already, debates are cropping up from local coffee shops all the way up to the parliaments throughout Europe and North America as to why the ship was not properly equipped with enough life rafts, why the comm system was disabled, and why exactly the ship crashed into an iceberg to begin with. This tragedy has attracted international attention and spurred a massive overhaul in maritime safety standards."
- ww1_england.102.a:0 "Women and children first!"
- ww1_england.102.b:0 "Women and children first!"
+ ww1_england.102.t:0 "Le naufrage du Titanic"
+ ww1_england.102.d:0 "Le RMS Titanic, ce gigantesque navire qui avait été conçu pour être insubmersible coule dans la nuit du 14 au 15 avril 1912 après avoir heurté un iceberg. Son naufrage est l'un des plus grand désastres de maritime de l'histoire, avec plus de 1500 morts en temps de paix. Des débats agitent les cafés et les parlements d'Europe et d'Amérique du Nord, afin de savoir pourquoi le paquebot n'était-il équipé de suffisamment de canots de sauvetage. Cette tragédie sucité l'attention internationale et remet sévèrement en question les normes de sécurité maritime."
+ ww1_england.102.a:0 "Les femmes et les enfants d'abord !"
+ ww1_england.102.b:0 "Les femmes et les enfants d'abord !"
 
  # JAPAN
  ww1_japan.100.t:0 "Japan–Korea Annexation Treaty"
@@ -1505,22 +1505,22 @@
  ww1_italianturkish.4.a:0 "Take Libya and the Dodecanese"
  ww1_italianturkish.4.b:0 "Nothing but total victory!"
 
- ww1_italianturkish.5.t:0 "Italians Refuse"
- ww1_italianturkish.5.d:0 "The Italians have foolishly declined to take our offer of peace."
- ww1_italianturkish.5.a:0 "Fight to the Death!"
+ ww1_italianturkish.5.t:0 "Le refus italien"
+ ww1_italianturkish.5.d:0 "Les italiens ont bêtement décliné notre offre de paix."
+ ww1_italianturkish.5.a:0 "La guerre jusqu'à la mort !"
 
  # Treaty of Versailles
- ww1_armistice.3.t:0 "Armistice with the Allies"
- ww1_armistice.3.d:0 "The situation in Germany has become far too much to bear. With the Entente creeping further to our borders and our people in a state of unquenchable anger, despite any gains, we must simply quit out. Many in the General Staff are furious, but at least have an outlet for their anger: the inevitable Civil War expected to follow shortly. This is the hell all Germans feared."
- ww1_armistice.3.a:0 "You haven't heard the last of us!"
+ ww1_armistice.3.t:0 "Armistice avec les Alliés"
+ ww1_armistice.3.d:0 "La situation en Allemagne est devenue insoutenable. Avec l'Entente qui marche sur nos frontières et notre peuple dans une colère à la soif insatiable, malgrès les gains, nous devrions simplement arrêter les frais. Beaucoup de membres de l'état-major sont furieux, mais doivent se rendre à l'évidence : car la menace de guerre civile se profile à l'horizon. L'enfer que tous les allemands craignent."
+ ww1_armistice.3.a:0 "Vous entendez parler de nous !"
 
  ww1_armistice.1.t:0 "L'Armistice de Compiègne"
- ww1_armistice.1.d:0 "A German delegation headed by Matthias Erzberger has returned from a meeting with Marshal Foch aboard a train near Compiègne, with full notice of German surrender. The war is over, and now the winners will recieve their spoils. A German state will survive, but little else is certain as of now."
- ww1_armistice.1.a:0 "Finally, the war is over."
+ ww1_armistice.1.d:0 "Une délégation allemande dirigée par  Matthias Erzberger est revenue d'une rencontre avec le Maréchal Foch à bord d'un train près de Compiègne, avec un avis complet sur la capitulation allemande. La guerre est finie, et maintenant les vainqueurs vont se partager leur butin. L'état allemand survivra, mais pour l'heure, c'est à peu près la seule chose qui demeure certaine."
+ ww1_armistice.1.a:0 "Enfin, la guerre est finie."
 
  ww1_armistice.2.t:0 "Traité de Versailles"
- ww1_armistice.2.d:0 "The Entente- now referring to themselves as the ''Allies''- have thrown a series of crushing demands on the back of the German state in the wake of the war's end. Notable stipulations include full German acceptance as harbinger of the war- whether or not they actually started it- a Demilitarized Zone in the Rheinland, and massive reparations, on top of the expected territorial losses and disarmament. Spectators were shocked at the cruelty of the treaty, and few expect it to last particularly long."
- ww1_armistice.2.a:0 "Uh-oh, here we go again..."
+ ww1_armistice.2.d:0 "L'Entente (se référant désormais à eux-même en tant que "Alliés") a lancé une série de revendications écrasante sur le dos de l'état allemand suite à la fin de la guerre. Des stipulations portant l'allemagne en tant que grande responsable de la guerre (qu'elle n'ait ou non commencé), la création d'une Zonée démilitarisée en Rhénanie, exigent des réparations au coût exorbitant, en plus des pertes territoriales attendues et du désarmement. Nombre de spectateurs on été choqués par la dureté du traité, et pourtant ses protagonistes semblent croire qu'ils ont posés les jalons d'une paix durable en Europe."
+ ww1_armistice.2.a:0 "Et allez, c'est reparti..."
 
 
  # GENERIC
@@ -1530,7 +1530,7 @@
 
  generic.3.t:0 "Bienvenue sur The Great War"
  generic.3.d:0 "Vous êtes un joueur expérimenté sur Hearts of Iron et vous voulez du Challenge ? Ça tombe bien, nous avons ajouté de nouvelles difficultés.\n\nChoissisez parmis ces 4 options pour voir de quel bois vous êtes fait !"
- generic.3.a:0 "Tinky Winki Eh-Ho!"
+ generic.3.a:0 "Les Télétubbies, Eh-Ho !"
  generic.3.b:0 "Non, pas aujourd'hui"
- generic.3.c:0 "I've got Balls of Steel"
- generic.3.e:0 "Nous dînerons en Enfer ce soir ! HA-OOH!"
+ generic.3.c:0 "Matte mes Balls of Steel"
+ generic.3.e:0 "Nous dînerons en Enfer ce soir ! HA-OOH !"
